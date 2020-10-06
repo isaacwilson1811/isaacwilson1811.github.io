@@ -14,4 +14,8 @@
 <h3>That would be nice.</h3>
 <pre>I'm tired.</pre>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 73788d6cc873bd585de3ad46b924db9c692593db
