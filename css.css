@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
         background-color: #515151;
         color: #ffffff;
@@ -19,6 +20,9 @@ div {
     height: 1100px;
     text-align: center;
 }
+=======
+
+>>>>>>> 34b29c7b74c33bcce04ba11c7f75bbacdb8fe3b4
 div:hover{
     background-color: #303030;
 }
