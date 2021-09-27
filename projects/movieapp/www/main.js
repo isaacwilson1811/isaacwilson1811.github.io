@@ -105,7 +105,7 @@ let FirebaseService = class FirebaseService {
                     this.session.remove('isAuthed');
                     this.session.remove('userCollection');
                     console.log("Sign out Action");
-                    window.location.reload();
+                    // window.location.reload();
                     resolve();
                 }).catch(() => {
                     reject();
