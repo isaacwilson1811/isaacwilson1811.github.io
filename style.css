@@ -7,10 +7,47 @@ body {
 }
 
 header {
-  background: #333;
+  background: #303139;
   color: #fff;
   padding: 2rem 1rem;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  gap: 50px;
+}
+
+
+
+.profile_image_container {
+  text-align: left;
+}
+
+.profile_image {
+  border-radius: 50%;
+  width: 112px;
+  height: 112px;
+  overflow: hidden;
+}
+
+.profile_text {
+  text-align: left;
+}
+
+.social_links {
+  background: #444;
+  padding: 0.5rem;
+  border-radius: 8px;
+}
+
+.social_links a {
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5rem;
+}
+
+.social_links a img {
+  width: 48px;
+  height: 48px;
 }
 
 nav {
@@ -41,6 +78,7 @@ section {
   margin: 1rem;
   border-radius: 8px;
 }
+
 
 h2 {
   border-bottom: 2px solid #ccc;
